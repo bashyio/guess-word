@@ -2,7 +2,7 @@ GUESS WORD
 
 A simple word guessing game in React & Redux
 
-Preview:
+Play:
 
 https://bashy-guess-word.netlify.app/
 
