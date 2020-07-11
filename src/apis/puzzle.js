@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://puzzle.mead.io",
+  baseURL: "https://puzzle.mead.io",
 });
